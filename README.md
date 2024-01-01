@@ -3,6 +3,9 @@ To play this Game
   Download The Repository
   Click on cube runner folder
   Then click on Cube Runner.exe 
+  Then to start the game click Left arrow on keyboard 
+  ![image](https://github.com/Rakesh953/Cube_Runner_Game_Unity/assets/114344426/c1d76acd-8691-44ec-a00b-b0e24790542e)
+
 
   You can install this application also
     If you want to install there is a folder Cube runner For Destop application click on it
