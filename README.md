@@ -1,6 +1,6 @@
 In This Project i have developed the Game application which name is given Cube Runner.
 To play this Game
-  Download The Repository
+  <h5>Download The Repository</h5>
   Click on cube runner folder
   Then click on Cube Runner.exe 
   Then to start the game click Left arrow on keyboard 
