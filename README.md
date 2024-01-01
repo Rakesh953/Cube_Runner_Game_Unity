@@ -23,5 +23,7 @@ To develop This project i have used:
   Audacity (Audio Editor)
   Photoshop (Logo edit)
   and some open-source website to access the accets
-  
+
+THis Project i have created in my UG time for fun and learn purpose 
+i love to play Online Games 
 
